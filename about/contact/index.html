@@ -245,7 +245,7 @@ Tysons Corner, VA 22182</div></li></ul><div class="fusion-sep-clear"></div><div 
 </div><ul class="fusion-checklist fusion-checklist-2" style="font-size:18px;line-height:30.6px;"><li class="fusion-li-item"><span style="height:30.6px;width:30.6px;margin-right:12.6px;" class="icon-wrapper circle-no"><i class="fusion-li-icon fa-phone fas" style="color:#fe865d;" aria-hidden="true"></i></span><div class="fusion-li-item-content" style="margin-left:43.2px;">(703) 621-5865</div></li></ul><div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep" style="margin-left: auto;margin-right: auto;margin-top:30px;width:100%;"></div><div class="fusion-sep-clear"></div><div class="fusion-social-links"><div class="fusion-social-networks boxed-icons"><div class="fusion-social-networks-wrapper"><a class="fusion-social-network-icon fusion-tooltip fusion-linkedin fusion-icon-linkedin" style="color:#969fac;font-size:16px;width: calc(16px + (2 * (8px)) + 2px);background-color:rgba(150,159,172,0.12);border-color:rgba(150,159,172,0.12);border-radius:4px;" data-placement="top" data-title="LinkedIn" data-toggle="tooltip" title="LinkedIn" aria-label="linkedin" target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/atigro/"></a><a class="fusion-social-network-icon fusion-tooltip fusion-facebook fusion-icon-facebook" style="color:#969fac;font-size:16px;width: calc(16px + (2 * (8px)) + 2px);background-color:rgba(150,159,172,0.12);border-color:rgba(150,159,172,0.12);border-radius:4px;" data-placement="top" data-title="Facebook" data-toggle="tooltip" title="Facebook" aria-label="facebook" target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/AtigroMarketing"></a><a class="fusion-social-network-icon fusion-tooltip fusion-twitter fusion-icon-twitter" style="color:#969fac;font-size:16px;width: calc(16px + (2 * (8px)) + 2px);background-color:rgba(150,159,172,0.12);border-color:rgba(150,159,172,0.12);border-radius:4px;" data-placement="top" data-title="Twitter" data-toggle="tooltip" title="Twitter" aria-label="twitter" target="_blank" rel="noopener noreferrer" href="https://twitter.com/AtigroMarketing"></a></div></div></div><div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep" style="margin-left: auto;margin-right: auto;margin-top:30px;width:100%;"></div><div class="fusion-sep-clear"></div><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6207.609413798491!2d-77.246891!3d38.928441!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xba29c7b2e97933f4!2sAtigro!5e0!3m2!1sen!2sin!4v1565017444829!5m2!1sen!2sin" width="100%" height=250" frameborder="0" style="border:0" allowfullscreen></iframe><div class="fusion-clearfix"></div></div></div><div class="fusion-layout-column fusion_builder_column fusion-builder-column-1 fusion_builder_column_3_5 3_5 fusion-three-fifth fusion-column-last" style="width:60%;width:calc(60% - ( ( 4% ) * 0.6 ) );margin-top:25px;margin-bottom:0px;"><div class="fusion-column-wrapper fusion-flex-column-wrapper-legacy" style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;border-width: 0 0 0 0;border-color:rgba(14,16,26,0.07);border-style:solid;padding: 8% 5% 10% 5%;"><style type="text/css"></style><div class="fusion-title title fusion-title-1 fusion-sep-none fusion-title-text fusion-title-size-one" style="margin-top:0px;margin-bottom:5px;"><h1 class="title-heading-left" style="margin:0;">How can we help you:</h1></div><div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep" style="margin-left: auto;margin-right: auto;margin-top:10px;margin-bottom:30px;width:100%;"><div class="fusion-separator-border sep-single sep-solid" style="border-color:#ecefef;border-top-width:1px;"></div></div><div class="fusion-sep-clear"></div><div role="form" class="wpcf7" id="wpcf7-f593-p14-o1" lang="en-US" dir="ltr">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
 <!--<form action="/about/contact/#wpcf7-f593-p14-o1" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">-->
-<form name="contact" method="POST" data-netlify="true"
+<!--<form name="contact" method="POST" data-netlify="true"
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="593" />
 <input type="hidden" name="_wpcf7_version" value="5.3.2" />
@@ -275,7 +275,26 @@ Tysons Corner, VA 22182</div></li></ul><div class="fusion-sep-clear"></div><div 
 									</div>
 <p><input type="submit" value="Send message" class="wpcf7-form-control wpcf7-submit" /></p>
 <!--<div class="fusion-alert alert custom alert-custom fusion-alert-center wpcf7-response-output fusion-alert-capitalize" style="border-width:1px;"><div class="fusion-alert-content-wrapper"><span class="fusion-alert-content"></span></div></div>-->
-</form></div>
+</form></div>-->
+	<form name="contact" method="POST" data-netlify="true">
+								<div class="fields">
+									<div class="field half">
+										<input type="text" name="name" id="name" placeholder="Name" />
+									</div>
+									<div class="field half">
+										<input type="email" name="email" id="email" placeholder="Email" />
+									</div>
+									<div class="field">
+										<textarea name="message" id="message" placeholder="Message" rows="7"></textarea>
+									</div>
+									<div class="field">
+										<div data-netlify-recaptcha="true"> </div>
+									</div>
+								</div>
+								<ul class="actions">
+									<li><input type="submit" value="Send Message" class="button primary" /></li>
+								</ul>
+							</form>
 							</div>
 												</div>
 	</section>
