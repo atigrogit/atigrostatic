@@ -274,7 +274,7 @@ Tysons Corner, VA 22182</div></li></ul><div class="fusion-sep-clear"></div><div 
 										<div data-netlify-recaptcha="true"> </div>
 									</div>
 <p><input type="submit" value="Send message" class="wpcf7-form-control wpcf7-submit" /></p>
-<!-<div class="fusion-alert alert custom alert-custom fusion-alert-center wpcf7-response-output fusion-alert-capitalize" style="border-width:1px;"><div class="fusion-alert-content-wrapper"><span class="fusion-alert-content"></span></div></div>-->
+<!--<div class="fusion-alert alert custom alert-custom fusion-alert-center wpcf7-response-output fusion-alert-capitalize" style="border-width:1px;"><div class="fusion-alert-content-wrapper"><span class="fusion-alert-content"></span></div></div>-->
 </form></div>
 							</div>
 												</div>
@@ -395,38 +395,7 @@ We use cookies and other tracking methods to alert visitors to information, make
 <link rel='stylesheet' id='wp-block-library-theme-css'  href='https://epic-archimedes-e9e355.netlify.app/wp-includes/css/dist/block-library/theme.min.css?ver=5.6' type='text/css' media='all' />
 <script type='text/javascript' src='https://epic-archimedes-e9e355.netlify.app/wp-content/plugins/metronet-profile-picture/js/mpp-frontend.js?ver=2.4.0' id='mpp_gutenberg_tabs-js'></script>
 <script type='text/javascript' src='https://epic-archimedes-e9e355.netlify.app/wp-content/uploads/fusion-scripts/38ef59689e40ab040e6e5dfd77227e61.min.js?ver=3.1.1' id='fusion-scripts-js'></script>
-			<script src="https://www.google.com/recaptcha/api.js?render=6LelC68UAAAAAHNg-tPdFe6mZ4WgDqbJPhq8cw3f"></script>
-			<script type="text/javascript">
-				( function( grecaptcha ) {
-
-					var anr_onloadCallback = function() {
-						grecaptcha.execute(
-							'6LelC68UAAAAAHNg-tPdFe6mZ4WgDqbJPhq8cw3f',
-							{ action: 'advanced_nocaptcha_recaptcha' }
-						).then( function( token ) {
-							for ( var i = 0; i < document.forms.length; i++ ) {
-								var form = document.forms[i];
-								var captcha = form.querySelector( 'input[name="g-recaptcha-response"]' );
-								if ( null === captcha )
-									continue;
-
-								captcha.value = token;
-							}
-						});
-					};
-
-					grecaptcha.ready( anr_onloadCallback );
-
-					document.addEventListener( 'wpcf7submit', anr_onloadCallback, false );
-					if ( typeof jQuery !== 'undefined' ) {
-						//Woocommerce
-						jQuery( document.body ).on( 'checkout_error', anr_onloadCallback );
-					}
-					//token is valid for 2 minutes, So get new token every after 1 minutes 50 seconds
-					setInterval(anr_onloadCallback, 110000);
-
-				} )( grecaptcha );
-			</script>
+		
 					</div>
 
 			<div class="to-top-container to-top-right">
