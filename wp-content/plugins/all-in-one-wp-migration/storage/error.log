@@ -1,0 +1,63 @@
+Jan 29 2021 10:39:21
+{"Number":2,"Message":"fopen(\/home\/s650\/html\/wp-content\/mu-plugins\/plugin-reports\/src\/utils.php): failed to open stream: Permission denied","File":"\/home\/s650\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":452}
+
+Jan 29 2021 10:39:21
+{"Number":2,"Message":"fopen(\/home\/s650\/html\/wp-content\/mu-plugins\/plugin-reports\/src\/plugin-stats\/woocommerce.php): failed to open stream: Permission denied","File":"\/home\/s650\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":452}
+
+Jan 29 2021 10:39:21
+{"Number":2,"Message":"fopen(\/home\/s650\/html\/wp-content\/mu-plugins\/plugin-reports\/src\/init.php): failed to open stream: Permission denied","File":"\/home\/s650\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":452}
+
+Jan 29 2021 10:39:21
+{"Number":2,"Message":"fopen(\/home\/s650\/html\/wp-content\/mu-plugins\/plugin-reports\/src\/gather.php): failed to open stream: Permission denied","File":"\/home\/s650\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":452}
+
+Jan 29 2021 10:39:21
+{"Number":2,"Message":"fopen(\/home\/s650\/html\/wp-content\/mu-plugins\/plugin-reports\/src\/models.php): failed to open stream: Permission denied","File":"\/home\/s650\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":452}
+
+Jan 29 2021 10:39:21
+{"Number":2,"Message":"fopen(\/home\/s650\/html\/wp-content\/mu-plugins\/plugin-reports\/src\/send-report.php): failed to open stream: Permission denied","File":"\/home\/s650\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":452}
+
+Jan 29 2021 10:39:21
+{"Number":2,"Message":"fopen(\/home\/s650\/html\/wp-content\/mu-plugins\/plugin-reports\/package.php): failed to open stream: Permission denied","File":"\/home\/s650\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":452}
+
+Jan 29 2021 10:39:21
+{"Number":2,"Message":"fopen(\/home\/s650\/html\/wp-content\/mu-plugins\/liquid-web\/cli\/class-affiliatewp-sub-commands.php): failed to open stream: Permission denied","File":"\/home\/s650\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":452}
+
+Jan 29 2021 10:39:21
+{"Number":2,"Message":"fopen(\/home\/s650\/html\/wp-content\/mu-plugins\/liquid-web\/cli\/class-command.php): failed to open stream: Permission denied","File":"\/home\/s650\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":452}
+
+Jan 29 2021 10:39:21
+{"Number":2,"Message":"fopen(\/home\/s650\/html\/wp-content\/mu-plugins\/liquid-web\/cli\/class-config-sub-commands.php): failed to open stream: Permission denied","File":"\/home\/s650\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":452}
+
+Jan 29 2021 10:39:21
+{"Number":2,"Message":"fopen(\/home\/s650\/html\/wp-content\/mu-plugins\/liquid-web\/multisite\/includes\/class-api-calls.php): failed to open stream: Permission denied","File":"\/home\/s650\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":452}
+
+Jan 29 2021 10:39:21
+{"Number":2,"Message":"fopen(\/home\/s650\/html\/wp-content\/mu-plugins\/liquid-web\/multisite\/includes\/class-network.php): failed to open stream: Permission denied","File":"\/home\/s650\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":452}
+
+Jan 29 2021 10:39:21
+{"Number":2,"Message":"fopen(\/home\/s650\/html\/wp-content\/mu-plugins\/liquid-web\/multisite\/multisite.php): failed to open stream: Permission denied","File":"\/home\/s650\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":452}
+
+Jan 29 2021 10:39:21
+{"Number":2,"Message":"fopen(\/home\/s650\/html\/wp-content\/mu-plugins\/lw_disable_nags.php): failed to open stream: Permission denied","File":"\/home\/s650\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":452}
+
+Jan 29 2021 10:39:21
+{"Number":2,"Message":"fopen(\/home\/s650\/html\/wp-content\/mu-plugins\/liquidweb_mwp.php): failed to open stream: Permission denied","File":"\/home\/s650\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":452}
+
+Jan 29 2021 10:39:21
+{"Number":2,"Message":"fopen(\/home\/s650\/html\/wp-content\/mu-plugins\/wp-cli-packages\/regression_urls_command.php): failed to open stream: Permission denied","File":"\/home\/s650\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":452}
+
+Jan 29 2021 10:39:21
+{"Number":2,"Message":"fopen(\/home\/s650\/html\/wp-content\/mu-plugins\/wp-cli-packages\/varnish_purge_command.php): failed to open stream: Permission denied","File":"\/home\/s650\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":452}
+
+Jan 29 2021 10:39:21
+{"Number":2,"Message":"fopen(\/home\/s650\/html\/wp-content\/mu-plugins\/liquid-web.php): failed to open stream: Permission denied","File":"\/home\/s650\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":452}
+
+Jan 29 2021 10:39:21
+{"Number":2,"Message":"fopen(\/home\/s650\/html\/wp-content\/mu-plugins\/000-liquidweb-config.php): failed to open stream: Permission denied","File":"\/home\/s650\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":452}
+
+Jan 29 2021 10:40:21
+{"type":8192,"message":"Methods with the same name as their class will not be constructors in a future version of PHP; WP_Categories_to_Tags has a deprecated constructor","file":"\/home\/s650\/html\/wp-content\/plugins\/wpcat2tag-importer\/wpcat2tag-importer.php","line":31}
+
+Jan 29 2021 10:40:22
+{"type":8192,"message":"Methods with the same name as their class will not be constructors in a future version of PHP; WP_Categories_to_Tags has a deprecated constructor","file":"\/home\/s650\/html\/wp-content\/plugins\/wpcat2tag-importer\/wpcat2tag-importer.php","line":31}
+
